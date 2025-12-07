@@ -143,7 +143,7 @@
     <string name="homepage">Go Back to Homepage</string>
     <string name="others">Others</string>
     <string name="feature">Hello there</string>
-    <string name="support">(✦) WriteOn: Simple Notepad</string>
+    <string name="support">(✦) Notes: Simple Notepad</string>
     <string name="support_description">Show your love</string>
     <string name="issue">Issue Feedback</string>
     <string name="issue_description">Suggest features to developer</string>
@@ -163,21 +163,21 @@
     <string name="terms_of_service">Terms of service</string>
     <string name="agree">Agree</string>
     <string name="terms_acceptance_title">1. Acceptance of Terms</string>
-    <string name="terms_acceptance_body">Welcome to WriteOn. By using our application, you agree to these Terms of Service. Please read them carefully.</string>
+    <string name="terms_acceptance_body">Welcome to Notes. By using our application, you agree to these Terms of Service. Please read them carefully.</string>
     <string name="terms_license_title">2. License in General</string>
-    <string name="terms_license_body">WriteOn is licensed under the **GNU General Public License (GPL) version 3**. This permits you to:\n- Use, modify, and share the application freely.\n- Distribute the application or modified versions, provided you also distribute the source code and retain the GPL license.</string>
+    <string name="terms_license_body">Notes is licensed under the **GNU General Public License (GPL) version 3**. This permits you to:\n- Use, modify, and share the application freely.\n- Distribute the application or modified versions, provided you also distribute the source code and retain the GPL license.</string>
     <string name="terms_responsibilities_title">3. User Responsibilities</string>
     <string name="terms_responsibilities_body">You are responsible for maintaining the confidentiality of your account information and for all activities under your account.</string>
     <string name="terms_liabilities_title">4. Limitation of Liability</string>
-    <string name="terms_liabilities_body">WriteOn is provided "as is," without any warranties. We do not guarantee that the app will be error-free, secure, or uninterrupted.</string>
+    <string name="terms_liabilities_body">Notes is provided "as is," without any warranties. We do not guarantee that the app will be error-free, secure, or uninterrupted.</string>
     <string name="terms_warranties_title">5. Disclaimer of Warranties</string>
-    <string name="terms_warranties_body">We are not liable for any damages resulting from your use of WriteOn, including indirect, incidental, or consequential damages.</string>
+    <string name="terms_warranties_body">We are not liable for any damages resulting from your use of Notes, including indirect, incidental, or consequential damages.</string>
     <string name="terms_changes_title">6. Modification of Terms</string>
     <string name="terms_changes_body">We may update these terms from time to time. The updated terms will be posted in the website, and the effective date will be updated accordingly.</string>
     <string name="terms_privacy_title">7. Privacy Policy</string>
-    <string name="terms_privacy_body">WriteOn does not collect any personal data. For more information, please refer to our Privacy Policy available at</string>
+    <string name="terms_privacy_body">Notes does not collect any personal data. For more information, please refer to our Privacy Policy available at</string>
     <string name="terms_contact_title">8. Contact Us</string>
-    <string name="terms_contact_body">For any questions about these Terms of Service of WriteOn, please contact us at</string>
+    <string name="terms_contact_body">For any questions about these Terms of Service of Notes, please contact us at</string>
     <string name="terms_effective_date">Effective Date</string>
 
     <!-- Fun -->

@@ -58,20 +58,20 @@ jobs:
           BUILD_TOOLS_VERSION: "34.0.0"
 
       - name: Rename APK
-        run: mv app/build/outputs/apk/release/app-release-signed.apk WriteOn.apk
+        run: mv app/build/outputs/apk/release/app-release-signed.apk Notes.apk
 
       - name: Upload the APK
         uses: actions/upload-artifact@v4.3.5
         with:
-          name: WriteOn
-          path: WriteOn.apk
+          name: Notes
+          path: Notes.apk
 
       - name: Install GitHub CLI
         run: sudo apt-get install gh
 
       - name: Create GitHub Release
         run: |
-          gh release create v1.8 WriteOn.apk \
+          gh release create v1.8 Notes.apk \
             --title "v1.8" \
             --notes "September Update~" \
         env:

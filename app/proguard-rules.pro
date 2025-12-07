@@ -30,7 +30,7 @@
 -keep class com.notepad.notes.presentation.screens.settings.model.Flashcard { *; }
 
 # Optional: If you use other models with Gson, you can keep them like this:
-# -keep class com.ezpnix.writeon.** { *; }
+# -keep class com.ezpnix.Notes.** { *; }
 
 # === ProcessPhoenix rules ===
 -keep class com.jakewharton.processphoenix.** { *; }

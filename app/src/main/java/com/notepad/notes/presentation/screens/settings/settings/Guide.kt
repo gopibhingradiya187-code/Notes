@@ -24,7 +24,7 @@ import com.notepad.notes.presentation.screens.settings.model.SettingsViewModel
 fun GuideScreen(navController: NavController, settingsViewModel: SettingsViewModel) {
 
     val faqList = listOf(
-        "What is WriteOn?" to "WriteOn is a simple app for taking notes—nothing special. You can add images and many more.",
+        "What is Notes?" to "Notes is a simple app for taking notes—nothing special. You can add images and many more.",
         "How do I delete a note?" to "Long-press a note on your home screen to see the available options. You may also discover other hidden features as well such as the swipe to edit/preview note.",
         "Can I recover deleted notes?" to "Yes, you can now restore them from your recycle bin found in your navigation drawer or quick action menu.",
         "How often are updates released?" to "The developer usually releases updates every one to two months, depending on how busy the developer is with real life and stuff.",

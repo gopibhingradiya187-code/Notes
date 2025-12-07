@@ -155,7 +155,7 @@ fun EmptyRightButton(
 
     Button(
         onClick = {
-            clipboardManager.setText(AnnotatedString("(^-^) Your support would be appreciated! https://github.com/3zpnix/WriteOn/"))
+            clipboardManager.setText(AnnotatedString("(^-^) Your support would be appreciated! https://github.com/gopibhingradiya187-code/Notes/"))
             Toast.makeText(context, "Link copied to clipboard!", Toast.LENGTH_SHORT).show()
         },
         shape = shape,

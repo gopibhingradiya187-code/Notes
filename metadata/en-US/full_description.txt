@@ -1,4 +1,4 @@
-WriteOn is a note-taking app designed with simplicity and usability at its core — perfect for students and everyday use.
+Notes is a note-taking app designed with simplicity and usability at its core — perfect for students and everyday use.
 
 🛠️ Key Features:
 • ☁️ Backup & Restore notes (offline & WebDAV supported)

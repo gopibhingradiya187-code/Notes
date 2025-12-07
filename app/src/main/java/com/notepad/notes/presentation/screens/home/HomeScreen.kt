@@ -506,7 +506,7 @@ fun HomeViewTopBarWithSearch(
                     horizontalAlignment = Alignment.CenterHorizontally
                 ) {
                     Text(
-                        text = "WriteOn",
+                        text = "Notes",
                         style = MaterialTheme.typography.headlineLarge.copy(fontWeight = FontWeight.Bold),
                         color = MaterialTheme.colorScheme.onBackground
                     )
