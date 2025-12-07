@@ -1,4 +1,4 @@
-# Write On: Simple Notepad ✅
+# Notes: Simple Notepad ✅
 - Last Updated: 1/10/2025
 
 ## In Progress:
@@ -15,4 +15,4 @@
 - [ ] Font Size Changeable
 - [ ] Cross Platform Client
 
-Contact me if you have any suggestions or feedbacks about the current/upcoming changes. For inquiries, email ezpnix@proton.me
+Contact me if you have any suggestions or feedbacks about the current/upcoming changes. For inquiries

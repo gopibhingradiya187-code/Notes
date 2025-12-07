@@ -1,20 +1,8 @@
 <div align="center">
   <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" width="192" height="192" alt="App Icon" />
 
-# WriteOn: Simple Notepad ✅
-A clean, intuitive note-taking app with *Material You* design — open source and privacy-respecting.
+# Notes: Simple Notepad ✅
 
-[<img src=".github/github.png" alt="Get it on GitHub" height="55">](https://github.com/3zpnix/WriteOn/releases)
-&nbsp;
-[<img src=".github/fdroid.png" alt="Get it on F-Droid" height="55">](https://f-droid.org/en/packages/com.ezpnix.writeon/)
-</div>
-
----
-
-<div align="center">
-  <img src="metadata/en-US/images/phoneScreenshots/1.png" width="30%" alt="Screenshot 1"/>
-  <img src="metadata/en-US/images/phoneScreenshots/2.png" width="30%" alt="Screenshot 2"/>
-  <img src="metadata/en-US/images/phoneScreenshots/3.png" width="30%" alt="Screenshot 3"/>
 </div>
 
 ---
@@ -22,7 +10,7 @@ A clean, intuitive note-taking app with *Material You* design — open source an
 ## 💥 Personal DevLog (^~^)
 
 <details>
-<summary><strong>💥 v1.8 (Latest Updates)</strong></summary>
+<summary><strong>💥 v1.0 (Latest Updates)</strong></summary>
 
 - [x] New homepage redesign
 - [x] Navigation drawer added
@@ -33,27 +21,6 @@ A clean, intuitive note-taking app with *Material You* design — open source an
 - [x] Slight animation improvements
 - [x] Minor bugs and UI fixes
 </details>
-
----
-
-## 📢 Announcements
-
-- *2025-09-04:* Sophomore year is right around the corner for me, decided to give out an update before it starts.
-- *2025-06-01:* Thankfully, I had time to continue the v1.6 update, had fun with this version, thank you!
-- *2025-05-09:* Small v1.5 update released — life’s hectic with job & university, so expect some slow updates.
-- *2025-02-25:* Found time for v1.3 update — future updates might be delayed due to part-time job.
-- *2025-01-19:* Taking a break to focus on other projects. Still planning v1.3!
-- *2024-12-07:* University workload delaying updates — sorry!
-- *2024-12-03:* v1.2 will be mostly bug fixes + features.
-- *2024-11-19:* Android Studio issues — delays expected.
-- *2024-08-26:* Android release coming soon to GitHub and F-Droid!
-
----
-
-## 💬 Contact
-
-- *Email:* 3zpnix@proton.me
-- *Twitter:* [@3zpnix](https://twitter.com/3zpnix)
 
 ---
 
@@ -69,9 +36,9 @@ A clean, intuitive note-taking app with *Material You* design — open source an
 ---
 
 ## ⚠️ License
-    WriteOn: Simple Notepad
+    Notes: Simple Notepad
 
-    Copyright (C)2024 3zpnix
+    Copyright (C)2025 gopibhingradiya187
     
     This software is free to use, modify, and redistribute under 
     the terms of the GNU General Public License, as published by the 
